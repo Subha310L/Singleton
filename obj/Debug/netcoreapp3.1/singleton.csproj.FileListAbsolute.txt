@@ -1,0 +1,14 @@
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\bin\Debug\netcoreapp3.1\singleton.exe
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\bin\Debug\netcoreapp3.1\singleton.deps.json
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\bin\Debug\netcoreapp3.1\singleton.runtimeconfig.json
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\bin\Debug\netcoreapp3.1\singleton.runtimeconfig.dev.json
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\bin\Debug\netcoreapp3.1\singleton.dll
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\bin\Debug\netcoreapp3.1\singleton.pdb
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\obj\Debug\netcoreapp3.1\singleton.csproj.AssemblyReference.cache
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\obj\Debug\netcoreapp3.1\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\obj\Debug\netcoreapp3.1\singleton.AssemblyInfoInputs.cache
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\obj\Debug\netcoreapp3.1\singleton.AssemblyInfo.cs
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\obj\Debug\netcoreapp3.1\singleton.csproj.CoreCompileInputs.cache
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\obj\Debug\netcoreapp3.1\singleton.dll
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\obj\Debug\netcoreapp3.1\singleton.pdb
+C:\Users\SubhaLakshmiLakshman\source\repos\singleton\obj\Debug\netcoreapp3.1\singleton.genruntimeconfig.cache
